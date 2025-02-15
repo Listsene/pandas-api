@@ -46,17 +46,13 @@ coverage.xml
 .coverage
 htmlcov/
 
-# Data files
-*.csv
-*.xlsx
-*.xls
-*.db
-*.sqlite3
-
 # Logs
 *.log
 logs/
 log/
+
+# Data
+cache/
 
 # OS specific
 .DS_Store
